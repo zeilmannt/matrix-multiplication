@@ -1,0 +1,5 @@
+# macOS debug symbol files
+*.dSYM/
+
+# all files without an extension (e.g., compiled binaries)
+matrix_mpi
