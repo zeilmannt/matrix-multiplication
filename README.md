@@ -1,4 +1,4 @@
-# matrix-multiplikation
+# matrix-multiplication
 
 This project performs parallel matrix multiplication using MPI in C and provides an interactive user interface with Streamlit for input and visualization.
 
