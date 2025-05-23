@@ -1,6 +1,13 @@
-# matrix-multiplication
+# Matrix multiplication
 
 This project performs parallel matrix multiplication using MPI in C and provides an interactive user interface with Streamlit for input and visualization.
+
+### Setup
+
+Python package installations:
+```shell
+streamlit, pandas, matplotlib, numpy
+```
 
 ### Build and start application dev profile activated
 
