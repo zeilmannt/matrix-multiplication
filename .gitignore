@@ -3,3 +3,6 @@
 
 # all files without an extension (e.g., compiled binaries)
 matrix_mpi
+
+# input and result files for matrices
+data/*.csv
